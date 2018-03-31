@@ -1,6 +1,6 @@
 # dotfiles
 These are my dotfiles for the various programs that I use. Feel free to download them and use them yourself, most of them are modified versions of other people's dotfiles. 
--Vim color scheme is dark-eyes but I removed the name for some reason.
+- Vim color scheme is dark-eyes but I removed the name for some reason.
 ## How to install a vim color scheme
 Follow the following steps:
 1. Clone or download this repo to your computer *Skip if installing a different color scheme than provided here.*
