@@ -21,7 +21,7 @@ To see if you did it right type this into the terminal:
 cd ~/.vim/colors/
 ls
 ```
-It should return with THEMENAME.vim (the file you moved there in the folder.
+It should return with THEMENAME.vim (the file you moved into the colors folder).
 
 3. Now that you have the file we need to have vim load it. Open .vimrc which is located in *~/.vimrc* with your text editor of choice. Then paste into a new line:
 ```
