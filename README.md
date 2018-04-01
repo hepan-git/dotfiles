@@ -3,6 +3,7 @@ These are my dotfiles for the various programs that I use. Feel free to download
 - Vim color scheme is dark-eyes but I removed the name for some reason.
 ## How to install a vim color scheme
 Follow the following steps:
+
 **1.** Clone or download this repo to your computer. *Skip if installing a different color scheme than provided here.*
 
 **2.** Move the .vim file that is your theme to your colors folder. (found in vim/colors on this repo)
