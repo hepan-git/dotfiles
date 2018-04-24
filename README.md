@@ -5,3 +5,7 @@ These are my dotfiles for the various programs that I use. Feel free to download
 	- bunget=brew uninstall
 	- bupgrade=brew upgrade
 	- blist=brew list
+- The chunkwmrc & skhdrc files are close to default and as such, the default shortcuts should work fine.
+	- I changed the border and padding of windows and stuff in chunkwmrc.
+## Coming Soon
+- Status bar
