@@ -92,8 +92,4 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias files="ranger"
-alias bget="brew install"
-alias bunget="brew uninstall"
-alias bupgrade="brew upgrade"
-alias blist="brew list"
+
